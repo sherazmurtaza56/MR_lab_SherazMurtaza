@@ -1,0 +1,24 @@
+[0.360s] Invoking command in '/home/sheraz/ros2_ws_sm/build/my_first_pkg': PYTHONPATH=/home/sheraz/ros2_ws_sm/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sheraz/ros2_ws_sm/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sheraz/ros2_ws_sm/build/my_first_pkg/build --no-deps symlink_data
+[0.515s] running develop
+[0.600s] running egg_info
+[0.601s] creating my_first_pkg.egg-info
+[0.601s] writing my_first_pkg.egg-info/PKG-INFO
+[0.601s] writing dependency_links to my_first_pkg.egg-info/dependency_links.txt
+[0.601s] writing entry points to my_first_pkg.egg-info/entry_points.txt
+[0.601s] writing requirements to my_first_pkg.egg-info/requires.txt
+[0.601s] writing top-level names to my_first_pkg.egg-info/top_level.txt
+[0.601s] writing manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[0.602s] reading manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[0.602s] writing manifest file 'my_first_pkg.egg-info/SOURCES.txt'
+[0.603s] running build_ext
+[0.603s] Creating /home/sheraz/ros2_ws_sm/install/my_first_pkg/lib/python3.10/site-packages/my-first-pkg.egg-link (link to .)
+[0.603s] Installing simple_node script to /home/sheraz/ros2_ws_sm/install/my_first_pkg/lib/my_first_pkg
+[0.604s] 
+[0.604s] Installed /home/sheraz/ros2_ws_sm/build/my_first_pkg
+[0.604s] running symlink_data
+[0.604s] creating /home/sheraz/ros2_ws_sm/install/my_first_pkg/share/ament_index
+[0.604s] creating /home/sheraz/ros2_ws_sm/install/my_first_pkg/share/ament_index/resource_index
+[0.604s] creating /home/sheraz/ros2_ws_sm/install/my_first_pkg/share/ament_index/resource_index/packages
+[0.604s] symbolically linking /home/sheraz/ros2_ws_sm/build/my_first_pkg/resource/my_first_pkg -> /home/sheraz/ros2_ws_sm/install/my_first_pkg/share/ament_index/resource_index/packages
+[0.604s] symbolically linking /home/sheraz/ros2_ws_sm/build/my_first_pkg/package.xml -> /home/sheraz/ros2_ws_sm/install/my_first_pkg/share/my_first_pkg
+[0.623s] Invoked command in '/home/sheraz/ros2_ws_sm/build/my_first_pkg' returned '0': PYTHONPATH=/home/sheraz/ros2_ws_sm/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sheraz/ros2_ws_sm/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sheraz/ros2_ws_sm/build/my_first_pkg/build --no-deps symlink_data

@@ -1,0 +1,4 @@
+[console_scripts]
+lidar = my_first_pkg.lidar:main
+simple_node = my_first_pkg.simple_node:main
+
