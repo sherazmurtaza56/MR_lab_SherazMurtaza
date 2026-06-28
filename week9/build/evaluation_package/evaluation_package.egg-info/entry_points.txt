@@ -1,0 +1,3 @@
+[console_scripts]
+recovery_node = evaluation_package.marker_recovery:main
+
